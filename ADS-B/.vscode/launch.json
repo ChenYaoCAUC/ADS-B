@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PyClient",
+            "request": "launch",
+            "mainClass": "PySocket.PyClient",
+            "projectName": "ADS-B"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UIMain",
+            "request": "launch",
+            "mainClass": "ui.UIMain",
+            "projectName": "ADS-B"
+        }
+    ]
+}

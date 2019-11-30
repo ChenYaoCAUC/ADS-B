@@ -11,12 +11,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 
 import controller.ADSBDataSolver;
-import controller.ADSBDataSolver.AnalyseThread;
-import controller.ADSBDataSolver.ReadThread;
 
 
 public class UIMain extends JFrame {
